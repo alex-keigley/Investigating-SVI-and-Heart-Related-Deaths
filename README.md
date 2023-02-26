@@ -16,4 +16,7 @@
 - Investigating relationship between other causes of death and social vulnerability.
     - Example: Trauma deaths, Cancer deaths, etc.
 
+## To-Do
+- In visuzlizations.ipynb counties with low population significantly alter deaths per 100k population, investigate binning?
+
 ## Resources
