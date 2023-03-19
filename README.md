@@ -16,7 +16,15 @@
 - Investigating relationship between other causes of death and social vulnerability.
     - Example: Trauma deaths, Cancer deaths, etc.
 
-## Category Creation
+## Category Creation - New, Deaths per 100k
+- Mean: 265.98 deaths/100k
+- Standard Deviation: 89.37 deaths
+- Categories
+    - 0 - Low: Death Ratio < 176.61
+    - 1 - Standard: Death Ratio between 176.61 and 355.35
+    - 2 - High: Death Ratio > 355.35
+
+## Category Creation - Old, Change in deaths approach
 - The following stats are from the in death for each two year increment from 2014 thru 2020.
     - Mean: 8.1
     - Standard Deviation: 57.8
