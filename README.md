@@ -37,3 +37,4 @@
 - In visuzlizations.ipynb counties with low population significantly alter deaths per 100k population, investigate binning? - Limitation?
 
 ## Resources
+https://www.fec.gov/introduction-campaign-finance/election-and-voting-information/
